@@ -1,0 +1,1 @@
+Terminalde Project klasörüne giderek npm install express ve npm install body-parser komutlarını çalıştırarak gerekli paketleri yükleyin. Son olarak, node server.js komutunu çalıştırarak sunucuyu başlatın ve tarayıcınızda http://localhost:3000 adresine giderek uygulamayı görüntüleyebilirsiniz.
